@@ -4,6 +4,11 @@ function increment() {
   console.log(count)
 }
 
+function Name(){
+  const name = document.getElementById("name")
+  name = name
+}
+
 
 
 
