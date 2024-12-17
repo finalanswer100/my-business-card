@@ -1,0 +1,45 @@
+.box1{
+    width: 150px;
+    height: 150px;
+    background: red;
+    color: black;
+}
+.box2{
+    width: 150px;
+    height: 150px;
+    background:blue;
+    color: black;
+}
+    
+.box3{
+    width: 150px;
+    height: 150px;
+    background:green;
+    color: black;
+    padding-left: 10px;
+}
+body{text-align: center;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 0;
+}
+
+
+
+    
+
+
+
+.box5{
+    width: 150px;
+    height: 150px;
+    background:pink;
+    color: black;
+}
+.box6{
+    width: 150px;
+    height: 150px;
+    background:yellow;
+    color: black;
+}
+
